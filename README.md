@@ -22,13 +22,14 @@ This project is beginner-friendly and great for learning how SMS permissions and
 
 ---
 
-
 ## 🔑 Permissions
 The app requests the following permissions:
+
 ```xml
 <uses-permission android:name="android.permission.READ_SMS" />
 <uses-permission android:name="android.permission.RECEIVE_SMS" />
 <uses-permission android:name="android.permission.SEND_SMS" />
+
 
 READ_SMS → Required to read inbox messages
 
@@ -38,4 +39,13 @@ SEND_SMS → Required if you want to send SMS (optional in this demo)
 
 
 ---
+
+## 📸 Screenshots
+
+### Inbox SMS View & Incoming SMS Toast
+
+![App Screenshot](https://raw.githubusercontent.com/abdullah-al-shafi/Read-Phone-SMS/main/screenshots/screenshot.png)
+
+
+
 
