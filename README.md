@@ -2,7 +2,8 @@
 
 ### Inbox SMS View & Incoming SMS Toast
 
-![Screenshot](https://github.com/abdullah-al-shafi/Read-Phone-SMS/blob/b2a86b5b901e98f0f2e418a15e23acda331d8b9e/screenshots/screenshot.png?raw=true)
+<img src="https://github.com/abdullah-al-shafi/Read-Phone-SMS/blob/main/screenshots/screenshot.png?raw=true" alt="Screenshot" width="350"/>
+
 
 # 📱 Read Phone SMS (Android)
 
