@@ -44,7 +44,7 @@ SEND_SMS → Required if you want to send SMS (optional in this demo)
 
 ### Inbox SMS View & Incoming SMS Toast
 
-![App Screenshot](https://raw.githubusercontent.com/abdullah-al-shafi/Read-Phone-SMS/main/screenshots/screenshot.png)
+![Screenshot](https://github.com/abdullah-al-shafi/Read-Phone-SMS/blob/b2a86b5b901e98f0f2e418a15e23acda331d8b9e/screenshots/screenshot.png?raw=true)
 
 
 
